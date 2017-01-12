@@ -1,7 +1,9 @@
 snipMate & UltiSnip Snippets
 ============================
 
-[![Build Status](https://travis-ci.org/honza/vim-snippets.svg)](https://travis-ci.org/honza/vim-snippets)
+**This is a folk of
+[honza/vim-snippets](https://github.com/honza/vim-snippets) 
+for personnel modifications**
 
 This repository contains snippets files for various programming languages.
 
